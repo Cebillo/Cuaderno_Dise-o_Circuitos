@@ -1,4 +1,4 @@
-[🏠 Inicio](./README.md) | [◀️ Semana Anterior](./Semana3.md) | [Semana Siguiente ▶️](./README.md)
+[🏠 Inicio](./README.md) | [◀️ Semana Anterior](./Semana3.md) | [Declaración de IA ▶️](./DeclaracionIA.md)
 
 ---
 
